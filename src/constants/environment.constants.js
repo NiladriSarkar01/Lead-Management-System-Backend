@@ -1,1 +1,1 @@
-export const clients='http://localhost:5173';
+export const clients='https://lead-management-system-brown.vercel.app';
